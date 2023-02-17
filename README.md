@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm T.G.D. Rangaka</h1>
-<h3 align="center">A software engineer student from Sri Lanka</h3>
+<h3 align="center">A software engineering student from Sri Lanka</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tgdrangaka" alt="tgdrangaka" /></a> </p>
 
