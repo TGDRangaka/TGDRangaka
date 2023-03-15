@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tgdrangaka" alt="tgdrangaka" /></a> </p>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Java, CSS, HTML, Java script**
 
 - 📫 How to reach me **tgdilshanrangaka2002@gmail.com**
 
