@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **tgdilshanrangaka2002@gmail.com**
 
-- ⚡ Fun fact **I am batman!**
+- ⚡ Fun fact **I am a One Piece fan🏴‍☠️🤍**
 
 
 <h3 align="left">Connect with me:</h3>
