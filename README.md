@@ -5,6 +5,11 @@
 <h3 align="center">A student that trying to be a great full-stack developer</h3>
 <h1 align="center">"As developers, we are architects of the virtual realm, building digital landscapes from imagination."</h1>
 
+<p align="center">
+  <img src="https://github.com/TGDRangaka/TGDRangaka/blob/main/hello%20world.gif" width="300" alt="Image Description">
+</p>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tgdrangaka&label=Profile%20views&color=0e75b6&style=flat" alt="tgdrangaka" /> </p>
 
 
