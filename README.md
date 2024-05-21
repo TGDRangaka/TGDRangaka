@@ -14,7 +14,7 @@
 
 <div align="center">
  
-🌱 I’m currently learning **React, Node.js, Spring**
+🌱 I’m currently learning **React, Firebase, Flutter**
 
 📫 How to reach me **tgdilshanrangaka2002@gmail.com**
 
