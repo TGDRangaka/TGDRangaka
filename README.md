@@ -14,11 +14,11 @@
 
 <div align="center">
  
-🌱 I’m currently learning **React, Firebase, Flutter**
+🌱 I’m currently learning **React Native, Flutter**
 
 📫 How to reach me **tgdilshanrangaka2002@gmail.com**
 
-💬 Ask me about **Java, MySQL, Java Script**
+💬 Ask me about **Springboot, Express, React**
 
 ⚡ Fun fact **I am a One Piece fan🏴‍☠️🤍**
 
