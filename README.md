@@ -33,7 +33,7 @@
 
 <div align="center">
  
-🌱 I’m currently learning **React Native, Flutter**
+🌱 I’m currently developing a **Game**
 
 📫 How to reach me **tgdilshanrangaka2002@gmail.com**
 
