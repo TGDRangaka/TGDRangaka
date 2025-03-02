@@ -30,11 +30,11 @@
 
 <div align="center">
  
-🌱 I’m currently developing a **Game**
+🌱 I’m currently developing a **Multiplayer Card Game**
 
-📫 How to reach me **tgdilshanrangaka2002@gmail.com**
+📫 How to reach me **dilshanrangaka@gmail.com**
 
-💬 Ask me about **Springboot, Express, React**
+💬 Ask me about **Springboot, NestJS, NextJS, Firebase, Games**
 
 ⚡ Fun fact **I am a One Piece fan🏴‍☠️🤍**
 
