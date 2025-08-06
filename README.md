@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&color=00F500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Dilshan+Rangaka!;+I'm+a+Student.;+I'm+a+Fullstack+Developer.;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&color=00F500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Dilshan+Rangaka!;+I'm+a+Fullstack+Developer.;" />
 </h1>
 
 ![hello world](https://github.com/TGDRangaka/TGDRangaka/assets/122887539/ea8cd3d9-58d3-4c8a-a73c-d54f18065f77)
